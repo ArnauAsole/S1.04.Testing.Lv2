@@ -101,4 +101,4 @@ You should see all tests passing successfully.
 This is a console-based Java project intended for local execution within your IDE. No web or server deployment is required.
 
 🤝 Acknowledgements
-Thanks to the instructors and peers for their guidance and support: Arnau, Adrià, Ignasi, Ana, Alejandro.
+Thanks to the instructors and peers for their guidance and support: Arnau, Adrià, Ignasi, Ana, Alejandro and Marc.
